@@ -40,3 +40,10 @@ El sistema deberá solicitar autenticación y controlar el acceso a las funcione
 ## 4. Criterio de aprobación
 
 Los requisitos REQ-001 a REQ-006 serán considerados aprobados para conformar la línea base v1.0 una vez revisados y versionados en el repositorio.
+## 5. Cambio posterior a la línea base
+
+### REQ-007 – Evidencia de la gestión en campo
+
+El sistema deberá permitir adjuntar una fotografía y registrar la ubicación como evidencia de la gestión de cobranza realizada en campo.
+
+**Control del cambio:** Requisito incorporado después de la línea base v1.0 mediante la rama `change/REQ-007`.
